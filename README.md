@@ -2,9 +2,7 @@
 
 Welcome to Calculator, a straightforward mobile application for performing basic arithmetic operations. This app is designed for simplicity and ease of use, providing you with all the essential functions of a standard calculator.
 
-![Calculator Screenshot 1](https://github.com/RNNivash/Calculator/assets/90308206/1e237abc-5650-4c6b-9f82-dc7b67e438b2)
-![Calculator Screenshot 2](https://github.com/RNNivash/Calculator/assets/90308206/3a74a1f1-6b2c-4a9d-99bb-5a732a6caa45)
-![Calculator Screenshot 3](https://github.com/RNNivash/Calculator/assets/90308206/7f4b38d7-ccae-4c1b-9fd3-e0d6b1456c26)
+![Simulator Screenshot - iPhone 15 - 2024-05-25 at 12 06 19](https://github.com/RNNivash/Chat_Nests/assets/90308206/e63c9322-425b-4537-8d7f-87487b175892)
 
 ## Features
 
